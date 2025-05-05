@@ -1,0 +1,55 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #fff8f0;
+  color: #3d3d3d;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background-color: #ffe8cc;
+  padding: 2em 1em;
+  border-bottom: 5px dashed #c78c5e;
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.3em;
+}
+
+header p {
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+section {
+  padding: 2em 1em;
+}
+
+section h2 {
+  font-size: 2em;
+  color: #865439;
+  margin-bottom: 0.5em;
+}
+
+.products ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.products li {
+  font-size: 1.2em;
+  margin: 0.5em 0;
+}
+
+.contact p {
+  margin: 0.3em 0;
+}
+
+footer {
+  background-color: #ffe8cc;
+  padding: 1.5em;
+  font-size: 1em;
+  border-top: 5px dashed #c78c5e;
+}
